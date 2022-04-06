@@ -1,0 +1,34 @@
+{
+  "splash": {
+    "splashContent": "<div style=\"text-align: center;\"><b style=\"\"><font style=\"font-size: x-large; color: rgb(255, 255, 255);\">Bienvenido a PlanApp. </font></b></div><div style=\"text-align: center;\"><b style=\"\"><font style=\"font-size: x-large; color: rgb(255, 255, 255);\"><br /></font></b></div><div style=\"text-align: center;\"><b style=\"color: rgb(255, 255, 255);\"><br /></b></div><div style=\"text-align: center;\"><span style=\"font-size: large; color: rgb(255, 255, 255);\">Le recomendamos el siguiente flujo para disfrutar su experiencia al máximo:</span></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\"><br /></font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\">1. Seleccione un fondo acorde a sus preferencias o a luz que haya.</font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\"><br /></font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\">2. Ejecute el Geoprocesamiento o filtre según su preferencia actual.</font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\"><br /></font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\">3. Establezca punto de inicio y final y cree su ruta personalizada.</font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\"><br /></font></div><div style=\"text-align: center;\"><font style=\"font-size: large; color: rgb(255, 255, 255);\">4. ¡Disfrute de su experiencia!</font></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "top",
+    "size": {
+      "mode": "wh",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20se%20ha%20seleccionado%20ning%C3%BAn%20archivo",
+      "color": "#485566",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "Aceptar"
+    }
+  }
+}
